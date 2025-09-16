@@ -1,0 +1,8 @@
+D:\C#\SEMANA_5\JP_Ejercicios_S5\bin\Debug\JP_Ejercicios_S5.exe.config
+D:\C#\SEMANA_5\JP_Ejercicios_S5\bin\Debug\JP_Ejercicios_S5.exe
+D:\C#\SEMANA_5\JP_Ejercicios_S5\bin\Debug\JP_Ejercicios_S5.pdb
+D:\C#\SEMANA_5\JP_Ejercicios_S5\obj\Debug\JP_Ejercicios_S5.csproj.AssemblyReference.cache
+D:\C#\SEMANA_5\JP_Ejercicios_S5\obj\Debug\JP_Ejercicios_S5.csproj.CoreCompileInputs.cache
+D:\C#\SEMANA_5\JP_Ejercicios_S5\obj\Debug\JP_Ejercicios_S5.exe
+D:\C#\SEMANA_5\JP_Ejercicios_S5\obj\Debug\JP_Ejercicios_S5.pdb
+D:\C#\SEMANA_5\JP_Ejercicios_S5\obj\Debug\JP_Ejercicios_S5.exe.config
