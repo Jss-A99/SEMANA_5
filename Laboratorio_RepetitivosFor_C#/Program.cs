@@ -10,7 +10,7 @@ namespace Laboratorio_RepetitivosFor_C_
     {
         static void Main(string[] args)
         {
-            EJER_8();
+            EJER_10();
             Console.ReadLine();
         }
         static void EJER_1()
@@ -104,6 +104,28 @@ namespace Laboratorio_RepetitivosFor_C_
                 }
             }
             
+        }
+        static void EJER_9()
+        {
+            Console.WriteLine("\n--- MÚLTIPLOS DE 3 DEL 1 AL 100 ---");
+            Console.WriteLine("\n-----------------------------------");
+
+            for (int i = 1; i <= 100; i++)
+            {
+                if (i % 3 == 0) Console.Write($"{i} ");
+            }
+        }
+        static void EJER_10()
+        {
+            Console.WriteLine("\n--- NÚMEROS DEL 1 AL NÚMERO QUE ELIJAS ---");
+            Console.Write("\nElige el número límite: ");
+            int num = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("\n------------------------------------------");
+            for (int i = 1; i <= num; i++)
+            {
+                Console.Write($"{i} ");
+            }
         }
     }
 }
