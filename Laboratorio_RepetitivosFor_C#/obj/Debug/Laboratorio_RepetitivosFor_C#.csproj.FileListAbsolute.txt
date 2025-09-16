@@ -1,0 +1,8 @@
+D:\C#\SEMANA_5\Laboratorio_RepetitivosFor_C#\bin\Debug\Laboratorio_RepetitivosFor_C#.exe.config
+D:\C#\SEMANA_5\Laboratorio_RepetitivosFor_C#\bin\Debug\Laboratorio_RepetitivosFor_C#.exe
+D:\C#\SEMANA_5\Laboratorio_RepetitivosFor_C#\bin\Debug\Laboratorio_RepetitivosFor_C#.pdb
+D:\C#\SEMANA_5\Laboratorio_RepetitivosFor_C#\obj\Debug\Laboratorio_RepetitivosFor_C#.csproj.AssemblyReference.cache
+D:\C#\SEMANA_5\Laboratorio_RepetitivosFor_C#\obj\Debug\Laboratorio_RepetitivosFor_C#.csproj.CoreCompileInputs.cache
+D:\C#\SEMANA_5\Laboratorio_RepetitivosFor_C#\obj\Debug\Laboratorio_RepetitivosFor_C#.exe
+D:\C#\SEMANA_5\Laboratorio_RepetitivosFor_C#\obj\Debug\Laboratorio_RepetitivosFor_C#.pdb
+D:\C#\SEMANA_5\Laboratorio_RepetitivosFor_C#\obj\Debug\Laboratorio_RepetitivosFor_C#.exe.config

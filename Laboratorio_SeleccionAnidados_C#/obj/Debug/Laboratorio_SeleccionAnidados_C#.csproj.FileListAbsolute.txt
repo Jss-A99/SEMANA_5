@@ -1,0 +1,8 @@
+D:\C#\SEMANA_5\Laboratorio_SeleccionAnidados_C#\obj\Debug\Laboratorio_SeleccionAnidados_C#.csproj.AssemblyReference.cache
+D:\C#\SEMANA_5\Laboratorio_SeleccionAnidados_C#\obj\Debug\Laboratorio_SeleccionAnidados_C#.csproj.CoreCompileInputs.cache
+D:\C#\SEMANA_5\Laboratorio_SeleccionAnidados_C#\bin\Debug\Laboratorio_SeleccionAnidados_C#.exe.config
+D:\C#\SEMANA_5\Laboratorio_SeleccionAnidados_C#\bin\Debug\Laboratorio_SeleccionAnidados_C#.exe
+D:\C#\SEMANA_5\Laboratorio_SeleccionAnidados_C#\bin\Debug\Laboratorio_SeleccionAnidados_C#.pdb
+D:\C#\SEMANA_5\Laboratorio_SeleccionAnidados_C#\obj\Debug\Laboratorio_SeleccionAnidados_C#.exe
+D:\C#\SEMANA_5\Laboratorio_SeleccionAnidados_C#\obj\Debug\Laboratorio_SeleccionAnidados_C#.pdb
+D:\C#\SEMANA_5\Laboratorio_SeleccionAnidados_C#\obj\Debug\Laboratorio_SeleccionAnidados_C#.exe.config
